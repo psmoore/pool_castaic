@@ -31,8 +31,8 @@ Built with `python3 build.py` (the chrome lives there; edit it, not the HTML) an
 ## What is ours
 
 - **Four pools** (from the lifeguards, Sep 25): 50-Meter Pool with Long Course (8 lanes) and Short Course (20 lanes)
-  configurations, closed for now; 25-Yard Pool (10 lanes), where everything runs, split into Lap Lanes, Lesson Area,
-  Water Exercise Area, Team Area and Rec Swim Area; Shallow Pool (3 lanes); Splash Pad.
+  configurations, closed for now; 25-Yard Pool (10 lanes), where everything runs — our lane estimate: lap swim 1–6, water exercise and
+  youth water polo 7–8, lessons 9–10, rec swim 1–8 weekdays and all 10 Saturdays; Shallow Pool (3 lanes); Splash Pad.
 - **Lessons at the same time are one block** (Levels 3 and 4 at 6pm and 7pm; two Parent and Child sections at 9am).
 - Sessions 4–7 are not entered: their classes aren't posted yet.
 

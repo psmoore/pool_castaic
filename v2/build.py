@@ -143,8 +143,7 @@ HOME = f"""
   <div class="wrap">
     <div class="intro">
       <h2>Find a swim time</h2>
-      <p>Every part of the 25-yard pool on one calendar, where everything runs while the 50-meter pool is closed: lap lanes, lessons, water exercise, team sports and rec swim.
-      Pick a day, or use the Teams menu to show one program.</p>
+      <p>The 25-yard pool lane by lane, where everything runs while the 50-meter pool is closed. Pick a day, or use the Teams menu to show one program. Lane numbers are our estimate.</p>
     </div>
     {cal("finder", "Castaic Aquatic Center, one day")}
   </div>
