@@ -13,7 +13,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 # Published Pool Relay views. Each is scoped to exactly what its page is about.
 EMBED = {
-    "finder":  "94hllfke9HUuzUaHoB2ZZH",   # the pool, one day, a row per part of the pool; Teams menu
+    "finder":  "94hllfke9HUuzUaHoB2ZZH",   # the 25-yard pool, one day, lane by lane; Pools and Teams menus
     "week":    "R07JQHtJ4XjdAAarm8ofK7",   # everything, the whole week; Teams menu
     "lap":     "SupzWBAnEkR2SZcZ16sDpL",   # lap swim
     "lessons": "1MbB9BQQR4z5zvvAvSFLvW",   # lessons; Practice Groups menu picks a level
