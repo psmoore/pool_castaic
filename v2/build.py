@@ -28,7 +28,7 @@ WEATHER = "https://forecast7.com/en/34d49n118d63/castaic/?unit=us"
 
 def cal(key, title, cls=""):
     t = EMBED[key]
-    return f"""<div class="cal {cls}"><iframe src="https://www.poolrelay.com/embed/{t}" title="{title}" loading="lazy"></iframe></div>
+    return f"""<div class="cal {cls}"><iframe width="100%" height="640" src="https://www.poolrelay.com/embed/{t}" title="{title}" loading="lazy"></iframe></div>
     <p class="capt">Updated live from the pool's schedule. <a href="https://www.poolrelay.com/v/{t}" target="_blank" rel="noopener">Open it full screen</a>.</p>"""
 
 
