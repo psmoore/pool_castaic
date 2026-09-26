@@ -156,10 +156,17 @@ QUESTIONS = """<section class="wrap">
       same hour as water polo, and Dive Team and Artistic Swimming as TBA.</div>
     </li>
     <li>
-      <div class="q"><span class="tag ours">Ours</span>One pool, five areas</div>
-      <div class="a">No page says which lanes each program uses, so the pool is split into lap lanes, a lesson
-      area, a water exercise area, a team area and a rec swim area, so the calendar can show them side by
-      side. Lessons are on the calendar through Session 3 and the Saturday session; later sessions aren't
+      <div class="q"><span class="tag gap">Gap</span>The 50-meter pool is closed</div>
+      <div class="a">On September 25 the lifeguards said the 50-meter pool (8 long-course or 20 short-course
+      lanes) is out of service, and lap swim, lessons, water exercise and rec swim all run in the 10-lane
+      25-yard pool. The center also has a 3-lane shallow pool and a splash pad. No page mentions the closure
+      or a reopening date.</div>
+    </li>
+    <li>
+      <div class="q"><span class="tag ours">Ours</span>Five areas in the 25-yard pool</div>
+      <div class="a">No page says which lanes each program uses, so the 25-yard pool is split into lap lanes, a
+      lesson area, a water exercise area, a team area and a rec swim area, so the calendar can show them side
+      by side. Water polo is placed there too; unconfirmed. Lessons are on the calendar through Session 3 and the Saturday session; later sessions aren't
       posted yet.</div>
     </li>
   </ul>
@@ -172,7 +179,7 @@ HUB = f"""<section class="wrap hero">
   <div class="crumb">Home</div>
   <h1>Find a swim time</h1>
   <p class="kicker">Fall 2026 &middot; Aug 24 &ndash; Nov 21</p>
-  <p class="lead">Everything in the 50-meter pool on one calendar, one row for each part of the pool: lap
+  <p class="lead">Everything in the water on one calendar (all of it in the 25-yard pool while the 50-meter pool is closed), one row for each part of the pool: lap
   lanes, lessons, water exercise, team sports and rec swim. Pick a <strong>day</strong>, and use the
   <strong>Teams</strong> menu to show one program.</p>
 
@@ -233,7 +240,9 @@ WEEK = f"""<section class="wrap hero">
 <section class="wrap">
   <h2>The pool</h2>
   <div class="facts">
-    <div><b>50-meter pool</b>Outdoors, 8 long-course lanes or 20 lanes of 25 yards.</div>
+    <div><b>50-meter pool</b>8 long-course lanes or 20 lanes of 25 yards. Closed for now.</div>
+    <div><b>25-yard pool</b>10 lanes. Lap swim, lessons, water exercise and rec swim.</div>
+    <div><b>Shallow pool and splash pad</b>A 3-lane 25-yard shallow pool, and a splash pad.</div>
     <div><b>Fees</b>Lap pass $80 for 30 entries or $15 for 5. Aquacise pass $35 a month. Rec swim
     free.</div>
   </div>

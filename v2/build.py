@@ -119,7 +119,7 @@ HOME = f"""
   <div class="wrap">
     <div>
       <h1>Castaic Aquatic Center</h1>
-      <p class="tag">An outdoor 50-meter pool in the hills above Santa Clarita. Open Monday to Saturday.</p>
+      <p class="tag">Four outdoor pools and a splash pad in the hills above Santa Clarita. The 50-meter pool is closed for now; everything runs in the 25-yard pool.</p>
     </div>
     <div class="now" id="now" aria-live="polite">
       <h2><span class="dot" aria-hidden="true"></span>In the water now</h2>
@@ -134,7 +134,7 @@ HOME = f"""
   <div class="wrap">
     <div><b>6am</b><span>Lap swim opens weekdays; 8am Saturday</span></div>
     <div><b>Free</b><span>Rec swim for all ages, weekdays 3&ndash;4pm</span></div>
-    <div><b>50 m</b><span>Eight long-course lanes, twenty short-course</span></div>
+    <div><b>4 pools</b><span>50-meter (closed for now), 10-lane 25-yard, 3-lane shallow, and a splash pad</span></div>
     <div><b>Aug 24&ndash;Nov 21</b><span>Fall season. Closed Sundays</span></div>
   </div>
 </div>
@@ -143,7 +143,7 @@ HOME = f"""
   <div class="wrap">
     <div class="intro">
       <h2>Find a swim time</h2>
-      <p>Every part of the pool on one calendar: lap lanes, lessons, water exercise, team sports and rec swim.
+      <p>Every part of the 25-yard pool on one calendar, where everything runs while the 50-meter pool is closed: lap lanes, lessons, water exercise, team sports and rec swim.
       Pick a day, or use the Teams menu to show one program.</p>
     </div>
     {cal("finder", "Castaic Aquatic Center, one day")}
@@ -280,7 +280,7 @@ TEAMS = f"""
 
 
 PAGES = [
-    ("index.html", "Castaic Aquatic Center", "An outdoor 50-meter pool in Castaic, CA: live schedule, lessons and team sports.", HOME,
+    ("index.html", "Castaic Aquatic Center", "Four pools and a splash pad in Castaic, CA: live schedule, lessons and team sports.", HOME,
      '<script src="now.js" defer></script>'),
     ("schedule.html", "Pool schedule — Castaic Aquatic Center", "The week at the Castaic Aquatic Center.", SCHEDULE, ""),
     ("lessons.html", "Swim lessons — Castaic Aquatic Center", "Swim lessons by level and session.", LESSONS, ""),

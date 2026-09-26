@@ -30,8 +30,9 @@ Built with `python3 build.py` (the chrome lives there; edit it, not the HTML) an
 
 ## What is ours
 
-- **Five areas in one pool**: Lap Lanes, Lesson Area, Water Exercise Area, Team Area, Rec Swim Area. No page
-  says how the pool is divided.
+- **Four pools** (from the lifeguards, Sep 25): 50-Meter Pool with Long Course (8 lanes) and Short Course (20 lanes)
+  configurations, closed for now; 25-Yard Pool (10 lanes), where everything runs, split into Lap Lanes, Lesson Area,
+  Water Exercise Area, Team Area and Rec Swim Area; Shallow Pool (3 lanes); Splash Pad.
 - **Lessons at the same time are one block** (Levels 3 and 4 at 6pm and 7pm; two Parent and Child sections at 9am).
 - Sessions 4–7 are not entered: their classes aren't posted yet.
 
